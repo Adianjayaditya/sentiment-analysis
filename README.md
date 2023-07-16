@@ -1,5 +1,6 @@
 # Final Project for Pengantar Pemrosesan Data Multimedia
 Sentiment analysis using K-Nearest Neighbors and chi-square feature selection
+
 Technologies used : 
 1. NLTK
 2. Sastrawi
